@@ -1,21 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-Learning statistics with R
+Learning statistics with Python
 ==========================
 
-This repository contains all the source materials for *Learning Statistics with R*. There are two versions of the content, the `original` version (LSR v0.6) written in LaTeX and the `bookdown` adaptation (LSR v0.6.1). The two versions are kept in distinct folders to ensure they share no dependencies.
+This repository contains all the source materials for *Learning Statistics with Python*, adapted by Tom Faulkenberry from Danielle Navarro's original book "Learning Statistics with R". 
 
-Bookdown
---------
-
-To generate the bookdown version, source the `bookdown/serve_book.R` script. The generated book appears in the `bookdown/_book` subdirectory.
-
-Original
---------
-
-To typeset the original LaTeX version, the root file is `original/pdf/lsr.tex`, and the generated file is the `original/pdf/lsr.pdf` file it produces.
-
-Docs
-----
-
-GitHub pages deploys the site from the `docs` directory; to publish an updated version of the bookdown version to <https://learningstatisticswithr.com> just copy the entire contents of `bookdown/_book` to `docs/book`, and push to GitHub.
+Currently (as of 1/9/2020), this project is in very early stages.
